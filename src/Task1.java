@@ -9,7 +9,6 @@ public class Task1 {
 
             System.out.print("Enter year: ");
             int year = scanner.nextInt();
-
             System.out.print("Enter month: ");
             int month = scanner.nextInt();
             System.out.print("Enter day: ");
